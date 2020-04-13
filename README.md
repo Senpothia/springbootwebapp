@@ -5,8 +5,8 @@ This repository has the project files for a tutorial series on Spring Boot avail
 [Spring Boot - making Spring Fun again!](https://springframework.guru/spring-boot-web-application-part-1-spring-initializr/)
 
 login:
-admim 
-admin 
-
-user
-user
+admin<br/> 
+admin<br/> 
+<br/> 
+user<br/> 
+user<br/> 
